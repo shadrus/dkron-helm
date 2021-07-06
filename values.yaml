@@ -8,7 +8,7 @@ log:
 
 server:
     replicas: 3
-    bootstrapExpected: 2
+    bootstrapExpected: 3
 
 agent:
     replicas: 1
