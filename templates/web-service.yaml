@@ -6,8 +6,7 @@ metadata:
 spec:
     selector:
         app: dkron
-        component: server
-    clusterIP: None
+        component: server    
     ports:
         -   protocol: TCP
             name: http
